@@ -1,0 +1,12 @@
+# environments
+.vscode
+.venv
+
+# python
+# Ignore mypy cache
+.mypy_cache/
+# Ignore pytest cache
+.pytest_cache/
+.python-version
+
+.DS_Store

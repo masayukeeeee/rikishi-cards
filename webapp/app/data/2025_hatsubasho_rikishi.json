@@ -1,0 +1,800 @@
+{
+    "1-east": {
+        "basho": "令和七年一月場所",
+        "name": "照ノ富士",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/3321",
+        "country": "モンゴル",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=49",
+        "heya": "伊勢ヶ濱",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/3",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/3321",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20110008.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/照ノ富士_20110008.jpg"
+        },
+        "detail": {
+            "full_name": "照ノ富士 春雄",
+            "full_name_hiragana": "てるのふじ はるお",
+            "rank_detail": "東横綱"
+        }
+    },
+    "2-east": {
+        "basho": "令和七年一月場所",
+        "name": "琴櫻",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/3661",
+        "country": "千葉県",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=12",
+        "heya": "佐渡ヶ嶽",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/27",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/3661",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20150081.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/琴櫻_20150081.jpg"
+        },
+        "detail": {
+            "full_name": "琴櫻 将傑",
+            "full_name_hiragana": "ことざくら まさかつ",
+            "rank_detail": "東大関"
+        }
+    },
+    "2-west": {
+        "basho": "令和七年一月場所",
+        "name": "豊昇龍",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/3842",
+        "country": "モンゴル",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=49",
+        "heya": "立浪",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/1",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/3842",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20170096.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/豊昇龍_20170096.jpg"
+        },
+        "detail": {
+            "full_name": "豊昇龍 智勝",
+            "full_name_hiragana": "ほうしょうりゅう ともかつ",
+            "rank_detail": "西大関"
+        }
+    },
+    "3-west": {
+        "basho": "令和七年一月場所",
+        "name": "大の里",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/4227",
+        "country": "石川県",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=17",
+        "heya": "二所ノ関",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/32",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/4227",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20230048.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/大の里_20230048.jpg"
+        },
+        "detail": {
+            "full_name": "大の里 泰輝",
+            "full_name_hiragana": "おおのさと だいき",
+            "rank_detail": "西大関"
+        }
+    },
+    "4-east": {
+        "basho": "令和七年一月場所",
+        "name": "若元春",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/3371",
+        "country": "福島県",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=7",
+        "heya": "荒汐",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/10001",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/3371",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20110065.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/若元春_20110065.jpg"
+        },
+        "detail": {
+            "full_name": "若元春 港",
+            "full_name_hiragana": "わかもとはる みなと",
+            "rank_detail": "東関脇"
+        }
+    },
+    "4-west": {
+        "basho": "令和七年一月場所",
+        "name": "大栄翔",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/3376",
+        "country": "埼玉県",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=11",
+        "heya": "追手風",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/52",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/3376",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20120003.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/大栄翔_20120003.jpg"
+        },
+        "detail": {
+            "full_name": "大栄翔 勇人",
+            "full_name_hiragana": "だいえいしょう はやと",
+            "rank_detail": "西関脇"
+        }
+    },
+    "5-east": {
+        "basho": "令和七年一月場所",
+        "name": "阿炎",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/3485",
+        "country": "埼玉県",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=11",
+        "heya": "錣山",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/10005",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/3485",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20130059.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/阿炎_20130059.jpg"
+        },
+        "detail": {
+            "full_name": "阿炎 政虎",
+            "full_name_hiragana": "あび まさとら",
+            "rank_detail": "東小結"
+        }
+    },
+    "5-west": {
+        "basho": "令和七年一月場所",
+        "name": "若隆景",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/3761",
+        "country": "福島県",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=7",
+        "heya": "荒汐",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/10001",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/3761",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20170011.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/若隆景_20170011.jpg"
+        },
+        "detail": {
+            "full_name": "若隆景 渥",
+            "full_name_hiragana": "わかたかかげ あつし",
+            "rank_detail": "西小結"
+        }
+    },
+    "6-east": {
+        "basho": "令和七年一月場所",
+        "name": "隆の勝",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/3265",
+        "country": "千葉県",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=12",
+        "heya": "常盤山",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/10014",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/3265",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20100039.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/隆の勝_20100039.jpg"
+        },
+        "detail": {
+            "full_name": "隆の勝 伸明",
+            "full_name_hiragana": "たかのしょう のぶあき",
+            "rank_detail": "東前頭筆頭"
+        }
+    },
+    "6-west": {
+        "basho": "令和七年一月場所",
+        "name": "霧島",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/3622",
+        "country": "モンゴル",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=49",
+        "heya": "音羽山",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/10016",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/3622",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20150034.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/霧島_20150034.jpg"
+        },
+        "detail": {
+            "full_name": "霧島 鐵力",
+            "full_name_hiragana": "きりしま てつお",
+            "rank_detail": "西前頭筆頭"
+        }
+    },
+    "7-east": {
+        "basho": "令和七年一月場所",
+        "name": "翔猿",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/3594",
+        "country": "東京都",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=13",
+        "heya": "追手風",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/52",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/3594",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20150005.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/翔猿_20150005.jpg"
+        },
+        "detail": {
+            "full_name": "翔猿 正也",
+            "full_name_hiragana": "とびざる まさや",
+            "rank_detail": "東前頭二枚目"
+        }
+    },
+    "7-west": {
+        "basho": "令和七年一月場所",
+        "name": "熱海富士",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/4055",
+        "country": "静岡県",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=22",
+        "heya": "伊勢ヶ濱",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/3",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/4055",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20200074.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/熱海富士_20200074.jpg"
+        },
+        "detail": {
+            "full_name": "熱海富士 朔太郎",
+            "full_name_hiragana": "あたみふじ さくたろう",
+            "rank_detail": "西前頭二枚目"
+        }
+    },
+    "8-east": {
+        "basho": "令和七年一月場所",
+        "name": "豪ノ山",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/4079",
+        "country": "大阪府",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=27",
+        "heya": "武隈",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/53",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/4079",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20210023.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/豪ノ山_20210023.jpg"
+        },
+        "detail": {
+            "full_name": "豪ノ山 登輝",
+            "full_name_hiragana": "ごうのやま とうき",
+            "rank_detail": "東前頭三枚目"
+        }
+    },
+    "8-west": {
+        "basho": "令和七年一月場所",
+        "name": "王鵬",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/3844",
+        "country": "東京都",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=13",
+        "heya": "大嶽",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/10004",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/3844",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20180002.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/王鵬_20180002.jpg"
+        },
+        "detail": {
+            "full_name": "王鵬 幸之介",
+            "full_name_hiragana": "おうほう こうのすけ",
+            "rank_detail": "西前頭三枚目"
+        }
+    },
+    "9-east": {
+        "basho": "令和七年一月場所",
+        "name": "正代",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/3521",
+        "country": "熊本県",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=43",
+        "heya": "時津風",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/11",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/3521",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20140019.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/正代_20140019.jpg"
+        },
+        "detail": {
+            "full_name": "正代 直也",
+            "full_name_hiragana": "しょうだい なおや",
+            "rank_detail": "東前頭四枚目"
+        }
+    },
+    "9-west": {
+        "basho": "令和七年一月場所",
+        "name": "宇良",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/3616",
+        "country": "大阪府",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=27",
+        "heya": "木瀬",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/57",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/3616",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20150028.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/宇良_20150028.jpg"
+        },
+        "detail": {
+            "full_name": "宇良 和輝",
+            "full_name_hiragana": "うら かずき",
+            "rank_detail": "西前頭四枚目"
+        }
+    },
+    "10-east": {
+        "basho": "令和七年一月場所",
+        "name": "平戸海",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/3705",
+        "country": "長崎県",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=42",
+        "heya": "境川",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/10003",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/3705",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20160042.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/平戸海_20160042.jpg"
+        },
+        "detail": {
+            "full_name": "平戸海 雄貴",
+            "full_name_hiragana": "ひらどうみ ゆうき",
+            "rank_detail": "東前頭五枚目"
+        }
+    },
+    "10-west": {
+        "basho": "令和七年一月場所",
+        "name": "千代翔馬",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/3207",
+        "country": "モンゴル",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=49",
+        "heya": "九重",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/21",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/3207",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20090066.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/千代翔馬_20090066.jpg"
+        },
+        "detail": {
+            "full_name": "千代翔馬 富士雄",
+            "full_name_hiragana": "ちよしょうま ふじお",
+            "rank_detail": "西前頭五枚目"
+        }
+    },
+    "11-east": {
+        "basho": "令和七年一月場所",
+        "name": "高安",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/2775",
+        "country": "茨城県",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=8",
+        "heya": "田子ノ浦",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/55",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/2775",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20050022.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/高安_20050022.jpg"
+        },
+        "detail": {
+            "full_name": "高安 晃",
+            "full_name_hiragana": "たかやす あきら",
+            "rank_detail": "東前頭六枚目"
+        }
+    },
+    "11-west": {
+        "basho": "令和七年一月場所",
+        "name": "一山本",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/3753",
+        "country": "北海道",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=1",
+        "heya": "放駒",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/31",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/3753",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20170002.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/一山本_20170002.jpg"
+        },
+        "detail": {
+            "full_name": "一山本 大生",
+            "full_name_hiragana": "いちやまもと だいき",
+            "rank_detail": "西前頭六枚目"
+        }
+    },
+    "12-east": {
+        "basho": "令和七年一月場所",
+        "name": "遠藤",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/3464",
+        "country": "石川県",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=17",
+        "heya": "追手風",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/52",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/3464",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20130036.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/遠藤_20130036.jpg"
+        },
+        "detail": {
+            "full_name": "遠藤 聖大",
+            "full_name_hiragana": "えんどう しょうた",
+            "rank_detail": "東前頭七枚目"
+        }
+    },
+    "12-west": {
+        "basho": "令和七年一月場所",
+        "name": "御嶽海",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/3620",
+        "country": "長野県",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=20",
+        "heya": "出羽海",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/47",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/3620",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20150032.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/御嶽海_20150032.jpg"
+        },
+        "detail": {
+            "full_name": "御嶽海 久司",
+            "full_name_hiragana": "みたけうみ ひさし",
+            "rank_detail": "西前頭七枚目"
+        }
+    },
+    "13-east": {
+        "basho": "令和七年一月場所",
+        "name": "狼雅",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/3907",
+        "country": "ロシア",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=55",
+        "heya": "二子山",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/28",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/3907",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20180068.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/狼雅_20180068.jpg"
+        },
+        "detail": {
+            "full_name": "狼雅 外喜義",
+            "full_name_hiragana": "ろうが ときよし",
+            "rank_detail": "東前頭八枚目"
+        }
+    },
+    "13-west": {
+        "basho": "令和七年一月場所",
+        "name": "宝富士",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/3150",
+        "country": "青森県",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=2",
+        "heya": "伊勢ヶ濱",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/3",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/3150",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20090004.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/宝富士_20090004.jpg"
+        },
+        "detail": {
+            "full_name": "宝富士 大輔",
+            "full_name_hiragana": "たからふじ だいすけ",
+            "rank_detail": "西前頭八枚目"
+        }
+    },
+    "14-east": {
+        "basho": "令和七年一月場所",
+        "name": "美ノ海",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/3711",
+        "country": "沖縄県",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=47",
+        "heya": "木瀬",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/57",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/3711",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20160048.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/美ノ海_20160048.jpg"
+        },
+        "detail": {
+            "full_name": "美ノ海 義久",
+            "full_name_hiragana": "ちゅらのうみ よしひさ",
+            "rank_detail": "東前頭九枚目"
+        }
+    },
+    "14-west": {
+        "basho": "令和七年一月場所",
+        "name": "欧勝馬",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/4108",
+        "country": "モンゴル",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=49",
+        "heya": "鳴戸",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/36",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/4108",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20210053.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/欧勝馬_20210053.jpg"
+        },
+        "detail": {
+            "full_name": "欧勝馬 出気",
+            "full_name_hiragana": "おうしょうま でぎ",
+            "rank_detail": "西前頭九枚目"
+        }
+    },
+    "15-east": {
+        "basho": "令和七年一月場所",
+        "name": "玉鷲",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/2629",
+        "country": "モンゴル",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=49",
+        "heya": "片男波",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/37",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/2629",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20040005.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/玉鷲_20040005.jpg"
+        },
+        "detail": {
+            "full_name": "玉鷲 一朗",
+            "full_name_hiragana": "たまわし いちろう",
+            "rank_detail": "東前頭十枚目"
+        }
+    },
+    "15-west": {
+        "basho": "令和七年一月場所",
+        "name": "明生",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/3337",
+        "country": "鹿児島県",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=46",
+        "heya": "立浪",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/1",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/3337",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20110029.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/明生_20110029.jpg"
+        },
+        "detail": {
+            "full_name": "明生 力",
+            "full_name_hiragana": "めいせい ちから",
+            "rank_detail": "西前頭十枚目"
+        }
+    },
+    "16-east": {
+        "basho": "令和七年一月場所",
+        "name": "翠富士",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/3743",
+        "country": "静岡県",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=22",
+        "heya": "伊勢ヶ濱",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/3",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/3743",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20160082.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/翠富士_20160082.jpg"
+        },
+        "detail": {
+            "full_name": "翠富士 一成",
+            "full_name_hiragana": "みどりふじ かずなり",
+            "rank_detail": "東前頭十一枚目"
+        }
+    },
+    "16-west": {
+        "basho": "令和七年一月場所",
+        "name": "尊富士",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/4171",
+        "country": "青森県",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=2",
+        "heya": "伊勢ヶ濱",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/3",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/4171",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20220059.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/尊富士_20220059.jpg"
+        },
+        "detail": {
+            "full_name": "尊富士 弥輝也",
+            "full_name_hiragana": "たけるふじ みきや",
+            "rank_detail": "西前頭十一枚目"
+        }
+    },
+    "17-east": {
+        "basho": "令和七年一月場所",
+        "name": "錦木",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/2892",
+        "country": "岩手県",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=3",
+        "heya": "伊勢ノ海",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/14",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/2892",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20060025.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/錦木_20060025.jpg"
+        },
+        "detail": {
+            "full_name": "錦木 徹也",
+            "full_name_hiragana": "にしきぎ てつや",
+            "rank_detail": "東前頭十二枚目"
+        }
+    },
+    "17-west": {
+        "basho": "令和七年一月場所",
+        "name": "阿武剋",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/4231",
+        "country": "モンゴル",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=49",
+        "heya": "阿武松",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/40",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/4231",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20230053.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/阿武剋_20230053.jpg"
+        },
+        "detail": {
+            "full_name": "阿武剋 一弘",
+            "full_name_hiragana": "おうのかつ かずひろ",
+            "rank_detail": "西前頭十二枚目"
+        }
+    },
+    "18-east": {
+        "basho": "令和七年一月場所",
+        "name": "湘南乃海",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/3553",
+        "country": "神奈川県",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=14",
+        "heya": "高田川",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/22",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/3553",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20140051.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/湘南乃海_20140051.jpg"
+        },
+        "detail": {
+            "full_name": "湘南乃海 桃太郎",
+            "full_name_hiragana": "しょうなんのうみ ももたろう",
+            "rank_detail": "東前頭十三枚目"
+        }
+    },
+    "18-west": {
+        "basho": "令和七年一月場所",
+        "name": "琴勝峰",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/3840",
+        "country": "千葉県",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=12",
+        "heya": "佐渡ヶ嶽",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/27",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/3840",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20170094.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/琴勝峰_20170094.jpg"
+        },
+        "detail": {
+            "full_name": "琴勝峰 吉成",
+            "full_name_hiragana": "ことしょうほう よしなり",
+            "rank_detail": "西前頭十三枚目"
+        }
+    },
+    "19-east": {
+        "basho": "令和七年一月場所",
+        "name": "北勝富士",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/3630",
+        "country": "埼玉県",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=11",
+        "heya": "八角",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/26",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/3630",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20150042.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/北勝富士_20150042.jpg"
+        },
+        "detail": {
+            "full_name": "北勝富士 大輝",
+            "full_name_hiragana": "ほくとふじ だいき",
+            "rank_detail": "東前頭十四枚目"
+        }
+    },
+    "19-west": {
+        "basho": "令和七年一月場所",
+        "name": "金峰山",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/4112",
+        "country": "カザフスタン",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=10003",
+        "heya": "木瀬",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/57",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/4112",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20210057.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/金峰山_20210057.jpg"
+        },
+        "detail": {
+            "full_name": "金峰山 晴樹",
+            "full_name_hiragana": "きんぽうざん はるき",
+            "rank_detail": "西前頭十四枚目"
+        }
+    },
+    "20-east": {
+        "basho": "令和七年一月場所",
+        "name": "伯桜鵬",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/4187",
+        "country": "鳥取県",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=31",
+        "heya": "伊勢ヶ濱",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/3",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/4187",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20230004.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/伯桜鵬_20230004.jpg"
+        },
+        "detail": {
+            "full_name": "伯桜鵬 哲也",
+            "full_name_hiragana": "はくおうほう てつや",
+            "rank_detail": "東前頭十五枚目"
+        }
+    },
+    "20-west": {
+        "basho": "令和七年一月場所",
+        "name": "北の若",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/3939",
+        "country": "山形県",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=6",
+        "heya": "八角",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/26",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/3939",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20190026.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/北の若_20190026.jpg"
+        },
+        "detail": {
+            "full_name": "北の若 大輔",
+            "full_name_hiragana": "きたのわか だいすけ",
+            "rank_detail": "西前頭十五枚目"
+        }
+    },
+    "21-east": {
+        "basho": "令和七年一月場所",
+        "name": "玉正鳳",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/3367",
+        "country": "モンゴル",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=49",
+        "heya": "片男波",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/37",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/3367",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20110061.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/玉正鳳_20110061.jpg"
+        },
+        "detail": {
+            "full_name": "玉正鳳 萬平",
+            "full_name_hiragana": "たましょうほう まんぺい",
+            "rank_detail": "東前頭十六枚目"
+        }
+    },
+    "21-west": {
+        "basho": "令和七年一月場所",
+        "name": "輝",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/3255",
+        "country": "石川県",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=17",
+        "heya": "高田川",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/22",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/3255",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20100029.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/輝_20100029.jpg"
+        },
+        "detail": {
+            "full_name": "輝 大士",
+            "full_name_hiragana": "かがやき たいし",
+            "rank_detail": "西前頭十六枚目"
+        }
+    },
+    "22-east": {
+        "basho": "令和七年一月場所",
+        "name": "錦富士",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/3742",
+        "country": "青森県",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=2",
+        "heya": "伊勢ヶ濱",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/3",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/3742",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20160081.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/錦富士_20160081.jpg"
+        },
+        "detail": {
+            "full_name": "錦富士 隆聖",
+            "full_name_hiragana": "にしきふじ りゅうせい",
+            "rank_detail": "東前頭十七枚目"
+        }
+    },
+    "22-west": {
+        "basho": "令和七年一月場所",
+        "name": "時疾風",
+        "profile_url": "https://www.sumo.or.jp/ResultRikishiData/profile/3933",
+        "country": "宮城県",
+        "country_url": "https://www.sumo.or.jp/ResultRikishiData/search?pref_id=4",
+        "heya": "時津風",
+        "heya_url": "https://www.sumo.or.jp/ResultRikishiDataSumoBeya/detail/11",
+        "profile_img": {
+            "url": "https://www.sumo.or.jp/ResultRikishiData/profile/3933",
+            "image_url": "https://www.sumo.or.jp/img/sumo_data/rikishi/270x474/20190020.jpg",
+            "local_path": "/Users/msakai/projects/private/rikishi/scrayping/img/時疾風_20190020.jpg"
+        },
+        "detail": {
+            "full_name": "時疾風 秀喜",
+            "full_name_hiragana": "ときはやて ひでき",
+            "rank_detail": "西前頭十七枚目"
+        }
+    }
+}

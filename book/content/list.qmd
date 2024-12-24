@@ -1,0 +1,32 @@
+---
+title: 力士の紹介
+---
+
+```{python}
+#| echo: false
+import json
+from IPython.display import Image, display, Markdown, HTML
+
+with open("../../scrayping/data/banzuke.json") as f:
+    rikishi_list = json.load(f)
+```
+
+```{python}
+#| echo: false
+#| align: center
+def display_rikishi_image(rikishi):
+    display(Image(filename=rikishi["profile_img"]["local_path"], height=800))
+
+for i, rank in enumerate(rikishi_list):
+    # display(Markdown(f"""## {rank["rank"]}"""))
+    east, west = rank["east"], rank["west"]
+
+    if east["name"]:
+        display(Markdown(f"""## {east["detail"]["rank_detail"]}\u3000{east["detail"]["full_name"]}"""))
+        display_rikishi_image(east)
+    
+    if west["name"]:
+        display(Markdown(f"""## {west["detail"]["rank_detail"]}\u3000{west["detail"]["full_name"]}"""))
+        display_rikishi_image(west)
+
+```

@@ -1,0 +1,46 @@
+[project]
+name = "scrayping"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "masayukeeeeee", email = "masayukeeeee@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.12.3",
+    "importlib>=1.0.4",
+    "ipdb>=0.13.13",
+    "ipython>=8.31.0",
+    "lxml>=5.3.0",
+    "mypy>=1.14.0",
+    "requests>=2.32.3",
+    "ruff>=0.8.4",
+    "selenium>=4.27.1",
+    "sqlfluff>=3.3.0",
+    "webdriver-manager>=4.0.2",
+]
+
+[project.scripts]
+scrayping = "scrayping:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.ruff]
+lint.select = [
+    "F", # Flake8
+    "B", # Black
+    "I", # isort
+    "E", # error
+    "W"  # warning
+]
+lint.ignore = ["F401"]
+lint.fixable = ["ALL"]
+exclude = [
+    ".ruff_cache"
+]
+line-length = 119
+indent-width = 4
+target-version = "py310"

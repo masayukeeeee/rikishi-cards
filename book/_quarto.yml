@@ -1,0 +1,22 @@
+article:
+  title: "2025年初場所 幕内力士一覧"
+  author: "Yota"
+  chapters: 
+    - index.qmd
+    - content/list.qmd
+
+format:
+  html:
+    theme: cosmo
+    highlight: github
+    number_sections: false
+    toc: false
+  pdf:
+    documentclass: bxjsarticle  # 日本語対応クラス
+    latex-engine: xelatex       # LaTeXエンジンを指定
+    keep-tex: true              # .texファイルを保持
+    # output-file: sumo-book.pdf  # 出力ファイル名
+    include-in-header: styles.tex  # 日本語フォント設定を適用
+    number-sections: false   # セクション番号を非表示
+    toc: false               # 目次を非表示
+    options: [a5paper, oneside]  # A5サイズに設定し、両面印刷を無効化

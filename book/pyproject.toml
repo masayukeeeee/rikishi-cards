@@ -1,0 +1,16 @@
+[project]
+name = "book"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "ipython>=8.31.0",
+    "jupyter>=1.1.1",
+    "mypy>=1.14.0",
+    "pandas>=2.2.3",
+    "pillow>=11.0.0",
+    "ruff>=0.8.4",
+    "sqlfluff>=3.3.0",
+]
